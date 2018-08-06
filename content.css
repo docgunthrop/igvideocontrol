@@ -1,0 +1,4 @@
+.ig-slider-div:hover > .ig-slider {
+	opacity:1 !important;
+	transition: opacity .5s;
+}
